@@ -1,2 +1,2 @@
 # Calculator
-A simple desktop calculator with user interface
+A simple desktop calculator app with user interface
